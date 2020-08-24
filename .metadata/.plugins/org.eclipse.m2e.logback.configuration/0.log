@@ -1,0 +1,689 @@
+2020-07-02 10:52:03,208 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-02 10:53:56,682 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' G:\smarte\WebAutomation\webautomation\pom.xml
+2020-07-02 10:54:03,835 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smarte:webautomation:0.0.1-SNAPSHOT @ G:\smarte\WebAutomation\webautomation\pom.xml.
+2020-07-02 10:54:05,116 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webautomation/src/main/java
+2020-07-02 10:54:05,149 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webautomation/src/test/java
+2020-07-02 10:54:06,595 [Worker-0: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2020-07-02 10:54:07,417 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 10:54:07,418 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 10:54:07,421 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 10:54:07,421 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\test\resources
+2020-07-02 10:56:15,668 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 10:56:15,669 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 10:56:15,671 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 10:56:15,671 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\test\resources
+2020-07-02 10:56:26,965 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 10:56:26,966 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 10:56:26,968 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 10:56:26,968 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\test\resources
+2020-07-02 10:58:16,511 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 10:58:16,511 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 10:58:16,513 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 10:58:16,526 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 10:59:11,504 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 10:59:11,505 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 10:59:11,507 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 10:59:11,519 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 11:06:23,244 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 11:06:23,244 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 11:06:23,247 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 11:06:23,250 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 11:06:24,287 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 11:06:24,287 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 11:06:24,289 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 11:06:24,289 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 11:06:35,079 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 11:06:35,080 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 11:06:35,084 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 11:06:35,085 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 11:06:53,432 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 11:06:53,467 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 11:06:53,479 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 11:06:53,482 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:10:31,165 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smarte:webautomation:0.0.1-SNAPSHOT @ G:\smarte\WebAutomation\webautomation\pom.xml.
+2020-07-02 14:10:48,956 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:10:48,957 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:10:48,962 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:10:48,966 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:11:37,330 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:11:37,330 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:11:37,333 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:11:37,333 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:15:09,781 [Worker-25: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smarte:webautomation:0.0.1-SNAPSHOT @ G:\smarte\WebAutomation\webautomation\pom.xml.
+2020-07-02 14:15:11,872 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:15:11,872 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:15:11,876 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:15:11,879 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:16:13,160 [Worker-24: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smarte:webautomation:0.0.1-SNAPSHOT @ G:\smarte\WebAutomation\webautomation\pom.xml.
+2020-07-02 14:16:15,459 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:16:15,460 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:16:15,463 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:16:15,465 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:16:18,329 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:16:18,329 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:16:18,330 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:16:18,331 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:24:14,058 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:24:14,059 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:24:14,061 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:24:14,061 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:25:45,805 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:25:45,805 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:25:45,807 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:25:45,808 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:31:23,523 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:31:23,524 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:31:23,529 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:31:23,530 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:36:45,768 [Worker-32: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:36:45,769 [Worker-32: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:36:45,771 [Worker-32: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:36:45,772 [Worker-32: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:37:44,867 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:37:44,867 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:37:44,870 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:37:44,871 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:37:55,190 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:37:55,191 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:37:55,196 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:37:55,199 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:38:05,408 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:38:05,409 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:38:05,414 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:38:05,415 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:38:14,646 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:38:14,647 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:38:14,649 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:38:14,650 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:38:28,674 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:38:28,675 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:38:28,678 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:38:28,678 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:38:38,354 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:38:38,355 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:38:38,358 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:38:38,359 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:39:16,865 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:39:16,865 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:39:16,871 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:39:16,872 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:42:35,164 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:42:35,165 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:42:35,170 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:42:35,171 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:42:42,799 [Worker-24: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:42:42,799 [Worker-24: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:42:42,802 [Worker-24: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:42:42,802 [Worker-24: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:42:50,895 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:42:50,896 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:42:50,901 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:42:50,902 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:43:13,255 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:43:13,256 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:43:13,262 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:43:13,264 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:43:43,329 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:43:43,330 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:43:43,332 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:43:43,333 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 14:43:46,116 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:43:46,116 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 14:43:46,118 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 14:43:46,119 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 15:42:57,297 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 15:42:57,309 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 15:42:57,317 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 15:42:57,318 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 15:43:56,719 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 15:43:56,719 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 15:43:56,723 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 15:43:56,724 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 15:46:06,861 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 15:46:06,862 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 15:46:06,864 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 15:46:06,869 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 16:13:24,005 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:13:24,007 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 16:13:24,013 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:13:24,013 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 16:13:43,151 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:13:43,152 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 16:13:43,154 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:13:43,162 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 16:14:36,149 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:14:36,149 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 16:14:36,151 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:14:36,152 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 16:16:19,051 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:16:19,052 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 16:16:19,056 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:16:19,056 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 16:19:12,957 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:19:12,957 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 16:19:12,960 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:19:12,967 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 16:19:24,784 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:19:24,785 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 16:19:24,794 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:19:24,796 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 16:19:42,494 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:19:42,495 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 16:19:42,499 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:19:42,499 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 16:22:54,473 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:22:54,473 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 16:22:54,475 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:22:54,476 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-02 16:26:36,530 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:26:36,533 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 16:26:36,536 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:26:36,537 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 16:28:50,101 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:28:50,101 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 16:28:50,104 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:28:50,106 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 16:34:28,848 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:34:28,854 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 16:34:28,857 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:34:28,858 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 17:03:06,976 [Worker-62: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:03:06,976 [Worker-62: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 17:03:06,979 [Worker-62: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:03:06,980 [Worker-62: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-02 17:07:39,303 [Worker-61: Launching Executing clean in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\smarte\WebAutomation\webautomation
+2020-07-02 17:07:39,306 [Worker-61: Launching Executing clean in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-02 17:07:39,307 [Worker-61: Launching Executing clean in G__smarte_WebAutomation_webautomation] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-02 17:07:45,685 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:07:45,685 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 17:07:45,688 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:07:45,689 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-02 17:07:55,393 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-07-02 17:08:03,471 [Worker-64: Launching webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\smarte\WebAutomation\webautomation
+2020-07-02 17:08:03,471 [Worker-64: Launching webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2020-07-02 17:08:03,471 [Worker-64: Launching webautomation] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-02 17:08:40,401 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-07-02 17:08:58,197 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:08:58,197 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 17:08:58,198 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:08:58,198 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-02 17:09:19,225 [Worker-64: Launching Executing install in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\smarte\WebAutomation\webautomation
+2020-07-02 17:09:19,225 [Worker-64: Launching Executing install in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-02 17:09:33,061 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:09:33,062 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 17:09:33,063 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:09:33,063 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 17:25:56,173 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:25:56,173 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 17:25:56,174 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:25:56,175 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 17:26:21,431 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:26:21,431 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 17:26:21,433 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:26:21,433 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-02 17:27:24,525 [Worker-75: Launching Executing clean in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\smarte\WebAutomation\webautomation
+2020-07-02 17:27:24,525 [Worker-75: Launching Executing clean in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-02 17:27:24,525 [Worker-75: Launching Executing clean in G__smarte_WebAutomation_webautomation] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-02 17:27:30,906 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:27:30,906 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 17:27:30,907 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:27:30,908 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-02 17:28:13,534 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-07-02 17:28:15,894 [Worker-71: Launching webautomation (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\smarte\WebAutomation\webautomation
+2020-07-02 17:28:15,894 [Worker-71: Launching webautomation (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2020-07-02 17:28:15,894 [Worker-71: Launching webautomation (1)] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-02 17:28:43,030 [Worker-67: Launching Executing install in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\smarte\WebAutomation\webautomation
+2020-07-02 17:28:43,030 [Worker-67: Launching Executing install in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-02 17:28:43,030 [Worker-67: Launching Executing install in G__smarte_WebAutomation_webautomation] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-02 17:28:57,683 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:28:57,683 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 17:28:57,684 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:28:57,685 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-02 17:29:33,082 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:29:33,082 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 17:29:33,083 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 17:29:33,083 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 18:35:27,304 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:35:27,314 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 18:35:27,318 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:35:27,321 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-02 18:35:34,606 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:35:34,607 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 18:35:34,610 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:35:34,611 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-02 18:35:58,535 [Worker-75: Launching CreateCustomFields] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:35:58,537 [Worker-75: Launching CreateCustomFields] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 18:35:58,542 [Worker-75: Launching CreateCustomFields] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:35:58,542 [Worker-75: Launching CreateCustomFields] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-02 18:39:08,186 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:39:08,187 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 18:39:08,188 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:39:08,192 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-02 18:40:52,869 [Worker-72: Launching Executing clean in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\smarte\WebAutomation\webautomation
+2020-07-02 18:40:52,869 [Worker-72: Launching Executing clean in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-02 18:40:59,031 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:40:59,032 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 18:40:59,034 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:40:59,036 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-02 18:41:16,493 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-07-02 18:41:19,352 [Worker-69: Launching webautomation (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\smarte\WebAutomation\webautomation
+2020-07-02 18:41:19,352 [Worker-69: Launching webautomation (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2020-07-02 18:41:19,352 [Worker-69: Launching webautomation (2)] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-02 18:42:21,020 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:42:21,021 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 18:42:21,022 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:42:21,023 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-02 18:43:57,231 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:43:57,232 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 18:43:57,233 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:43:57,233 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-02 18:44:40,846 [Worker-74: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-02 18:44:45,323 [Worker-74: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smarte:webautomation:0.0.1-SNAPSHOT @ G:\smarte\WebAutomation\webautomation\pom.xml.
+2020-07-02 18:44:55,832 [Worker-74: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webautomation/src/main/java
+2020-07-02 18:44:55,833 [Worker-74: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webautomation/src/test/java
+2020-07-02 18:44:55,834 [Worker-74: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webautomation/src/test/resources
+2020-07-02 18:44:55,868 [Worker-74: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 15 sec
+2020-07-02 18:44:59,311 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:44:59,313 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-02 18:44:59,315 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 18:44:59,319 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-18 20:39:57,327 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-18 20:40:32,281 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 20:40:32,282 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 20:40:32,285 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 20:40:32,290 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-18 20:46:29,545 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 20:46:29,545 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 20:46:29,549 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 20:46:29,557 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-18 20:47:49,033 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 20:47:49,033 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 20:47:49,035 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 20:47:49,059 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 20:48:10,961 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 20:48:10,962 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 20:48:10,963 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 20:48:10,964 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-18 21:07:22,922 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:07:22,922 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:07:22,924 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:07:22,925 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-18 21:08:51,732 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:08:51,732 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:08:51,734 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:08:51,735 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 21:08:58,801 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:08:58,803 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:08:58,810 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:08:58,813 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-18 21:09:10,900 [Worker-26: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:09:10,900 [Worker-26: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:09:10,904 [Worker-26: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:09:10,911 [Worker-26: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-18 21:12:44,459 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:12:44,459 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:12:44,461 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:12:44,461 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-18 21:13:49,408 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:13:49,409 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:13:49,410 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:13:49,410 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 21:14:41,063 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:14:41,064 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:14:41,065 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:14:41,066 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-18 21:24:29,540 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:24:29,540 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:24:29,541 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:24:29,542 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-18 21:24:36,244 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:24:36,245 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:24:36,249 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:24:36,250 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 21:25:14,343 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:25:14,343 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:25:14,345 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:25:14,346 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-18 21:27:50,640 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:27:50,640 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:27:50,642 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:27:50,643 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-18 21:29:01,655 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:29:01,656 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:29:01,661 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:29:01,662 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-18 21:34:27,107 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:34:27,107 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:34:27,109 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:34:27,110 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-18 21:36:19,411 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:36:19,411 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:36:19,413 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:36:19,414 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-18 21:36:27,923 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:36:27,924 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:36:27,926 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:36:27,926 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-18 21:36:38,781 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:36:38,782 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:36:38,783 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:36:38,784 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-18 21:57:04,441 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:57:04,441 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:57:04,442 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:57:04,443 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 21:57:20,193 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:57:20,193 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:57:20,194 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:57:20,196 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 21:57:28,633 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:57:28,634 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:57:28,635 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:57:28,636 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 21:57:36,351 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:57:36,351 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:57:36,353 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:57:36,355 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 21:59:00,142 [Worker-39: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:59:00,142 [Worker-39: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 21:59:00,143 [Worker-39: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:59:00,145 [Worker-39: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 22:06:26,956 [Worker-40: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:06:26,957 [Worker-40: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:06:26,958 [Worker-40: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:06:26,960 [Worker-40: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 22:08:10,197 [Worker-39: Launching CreateCustomFields.createCustomFieldsForAccount] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:08:10,197 [Worker-39: Launching CreateCustomFields.createCustomFieldsForAccount] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:08:10,199 [Worker-39: Launching CreateCustomFields.createCustomFieldsForAccount] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:08:10,199 [Worker-39: Launching CreateCustomFields.createCustomFieldsForAccount] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 22:11:15,093 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:11:15,094 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:11:15,096 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:11:15,097 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 22:12:53,711 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:12:53,711 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:12:53,713 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:12:53,714 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 22:22:19,904 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:22:19,904 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:22:19,905 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:22:19,906 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-07-18 22:26:08,103 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:26:08,104 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:26:08,105 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:26:08,105 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 22:26:15,236 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:26:15,236 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:26:15,238 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:26:15,238 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 22:26:42,790 [Worker-42: Launching CreateCustomFields.createCustomFieldsForAccount] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:26:42,791 [Worker-42: Launching CreateCustomFields.createCustomFieldsForAccount] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:26:42,792 [Worker-42: Launching CreateCustomFields.createCustomFieldsForAccount] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:26:42,793 [Worker-42: Launching CreateCustomFields.createCustomFieldsForAccount] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 22:32:50,199 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:32:50,200 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:32:50,202 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:32:50,202 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 22:32:58,706 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:32:58,707 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:32:58,708 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:32:58,709 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 22:41:22,326 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:41:22,326 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:41:22,328 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:41:22,329 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-18 22:48:46,299 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:48:46,300 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:48:46,301 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:48:46,302 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 22:48:55,498 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:48:55,498 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 22:48:55,500 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 22:48:55,501 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 23:10:21,990 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:10:21,991 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 23:10:21,992 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:10:21,992 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 23:10:32,689 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:10:32,689 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 23:10:32,691 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:10:32,692 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 23:11:43,845 [Worker-79: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:11:43,845 [Worker-79: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 23:11:43,847 [Worker-79: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:11:43,848 [Worker-79: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 23:14:50,726 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:14:50,727 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 23:14:50,728 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:14:50,729 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 23:18:24,499 [Worker-82: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:18:24,499 [Worker-82: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 23:18:24,501 [Worker-82: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:18:24,502 [Worker-82: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 23:20:02,090 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:20:02,090 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 23:20:02,092 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:20:02,093 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 23:31:09,473 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:31:09,474 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 23:31:09,476 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:31:09,476 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 23:31:16,837 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:31:16,837 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 23:31:16,838 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:31:16,839 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 23:34:10,950 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:34:10,950 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 23:34:10,952 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:34:10,952 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 23:34:15,526 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:34:15,526 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 23:34:15,528 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:34:15,528 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 23:34:24,274 [Worker-81: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:34:24,274 [Worker-81: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 23:34:24,275 [Worker-81: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:34:24,276 [Worker-81: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-18 23:46:09,068 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:46:09,069 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-18 23:46:09,070 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 23:46:09,071 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-20 12:56:43,365 [Worker-449: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:56:43,369 [Worker-449: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-07-20 12:56:43,373 [Worker-449: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:56:43,375 [Worker-449: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-08-11 15:56:09,475 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-11 15:56:38,113 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-11 15:56:38,116 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-11 15:56:38,118 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-11 15:56:38,125 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-08-12 10:44:55,820 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 10:44:55,867 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 10:44:55,874 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 10:44:55,938 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 10:46:14,796 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 10:46:14,796 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 10:46:14,815 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 10:46:14,818 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-12 10:46:41,054 [Worker-146: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 10:46:41,055 [Worker-146: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 10:46:41,057 [Worker-146: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 10:46:42,735 [Worker-146: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 10:48:13,229 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 10:48:13,229 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 10:48:13,229 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 10:48:13,229 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 10:51:05,233 [Worker-151: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 10:51:05,233 [Worker-151: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 10:51:05,233 [Worker-151: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 10:51:05,233 [Worker-151: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 11:03:16,025 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 11:03:16,025 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 11:03:16,033 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 11:03:16,033 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 11:12:15,349 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 11:12:15,349 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 11:12:15,349 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 11:12:15,365 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 12:07:00,428 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:07:00,453 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 12:07:00,459 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:07:00,472 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-12 12:07:08,537 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:07:08,537 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 12:07:08,540 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:07:08,541 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2020-08-12 12:07:10,745 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:07:10,745 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 12:07:10,751 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:07:10,752 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2020-08-12 12:07:32,169 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:07:32,175 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 12:07:32,182 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:07:32,184 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2020-08-12 12:07:59,424 [Worker-166: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:07:59,424 [Worker-166: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 12:07:59,427 [Worker-166: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:07:59,428 [Worker-166: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 12:08:26,879 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:08:26,881 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 12:08:26,885 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:08:26,887 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 16:35:23,935 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 16:35:23,947 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 16:35:23,950 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 16:35:23,952 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-08-12 16:35:33,163 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 16:35:33,163 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 16:35:33,171 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 16:35:33,172 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 16:36:26,411 [Worker-171: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 16:36:26,412 [Worker-171: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 16:36:26,414 [Worker-171: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 16:36:26,416 [Worker-171: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 16:36:40,052 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 16:36:40,053 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 16:36:40,055 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 16:36:40,056 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 16:55:55,027 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 16:55:55,027 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 16:55:55,028 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 16:55:55,029 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 17:14:32,324 [Worker-190: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:14:32,324 [Worker-190: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 17:14:32,325 [Worker-190: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:14:32,326 [Worker-190: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 17:14:37,998 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:14:37,998 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 17:14:38,003 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:14:38,004 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 17:21:35,784 [Worker-185: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:21:35,785 [Worker-185: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 17:21:35,787 [Worker-185: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:21:35,788 [Worker-185: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 17:21:42,434 [Worker-190: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:21:42,435 [Worker-190: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 17:21:42,437 [Worker-190: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:21:42,438 [Worker-190: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 17:21:58,555 [Worker-189: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:21:58,555 [Worker-189: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 17:21:58,556 [Worker-189: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:21:58,557 [Worker-189: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 17:28:46,888 [Worker-189: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:28:46,892 [Worker-189: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 17:28:46,896 [Worker-189: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:28:46,898 [Worker-189: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-12 17:32:12,442 [Worker-190: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:32:12,443 [Worker-190: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 17:32:12,444 [Worker-190: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:32:12,445 [Worker-190: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 17:34:36,516 [Worker-189: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:34:36,516 [Worker-189: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 17:34:36,518 [Worker-189: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:34:36,518 [Worker-189: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 17:47:38,023 [Worker-184: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:47:38,023 [Worker-184: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 17:47:38,025 [Worker-184: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 17:47:38,026 [Worker-184: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 18:04:18,329 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 18:04:18,329 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-12 18:04:18,331 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 18:04:18,331 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-13 16:35:49,707 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-08-13 17:49:00,007 [Worker-25: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-13 17:49:00,009 [Worker-25: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-13 17:49:00,014 [Worker-25: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-13 17:49:00,026 [Worker-25: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-13 19:07:16,865 [Worker-34: Launching Executing test in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\smarte\WebAutomation\webautomation
+2020-08-13 19:07:16,880 [Worker-34: Launching Executing test in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-08-13 19:08:24,748 [Worker-34: Launching Executing test in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\smarte\WebAutomation\webautomation
+2020-08-13 19:08:24,749 [Worker-34: Launching Executing test in G__smarte_WebAutomation_webautomation] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-08-15 14:30:26,244 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-15 14:30:40,810 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 14:30:40,810 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-15 14:30:40,813 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 14:30:40,821 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 14:02:17,147 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-17 14:05:56,028 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:05:56,030 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-17 14:05:56,033 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:05:56,038 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 14:05:57,125 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:05:57,125 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-17 14:05:57,127 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:05:57,133 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 14:08:01,935 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:08:01,935 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-17 14:08:01,938 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:08:01,944 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 14:09:59,561 [Worker-14: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:09:59,561 [Worker-14: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-17 14:09:59,563 [Worker-14: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:09:59,565 [Worker-14: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 14:11:54,143 [Worker-14: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:11:54,144 [Worker-14: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-17 14:11:54,147 [Worker-14: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:11:54,148 [Worker-14: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 14:29:30,674 [Worker-18: Launching CreateCustomFields.createCustomFieldsForAccount] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:29:30,675 [Worker-18: Launching CreateCustomFields.createCustomFieldsForAccount] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-17 14:29:30,677 [Worker-18: Launching CreateCustomFields.createCustomFieldsForAccount] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:29:30,679 [Worker-18: Launching CreateCustomFields.createCustomFieldsForAccount] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 14:47:01,212 [Worker-20: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:47:01,213 [Worker-20: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-17 14:47:01,215 [Worker-20: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:47:01,221 [Worker-20: Launching CreateCustomFields.createCustomFieldsForContact] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 14:58:40,326 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:58:40,326 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-17 14:58:40,331 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:58:40,339 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-18 11:09:21,540 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-18 11:15:24,513 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 11:15:24,515 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-18 11:15:24,518 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 11:15:24,524 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-18 11:15:39,815 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 11:15:39,815 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-18 11:15:39,817 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 11:15:39,828 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-18 11:17:34,731 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 11:17:34,731 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-18 11:17:34,734 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 11:17:34,736 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2020-08-18 11:37:56,192 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 11:37:56,192 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-18 11:37:56,195 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 11:37:56,197 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2020-08-18 11:38:11,128 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 11:38:11,129 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-18 11:38:11,131 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 11:38:11,133 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2020-08-18 11:50:02,182 [Worker-23: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 11:50:02,183 [Worker-23: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-18 11:50:02,186 [Worker-23: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 11:50:02,192 [Worker-23: Launching CreateCustomFields.createCustomFieldsForLead] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2020-08-18 18:48:58,276 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-19 17:27:39,600 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-19 17:28:30,443 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-19 17:28:30,444 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\smarte\WebAutomation\webautomation\src\main\resources
+2020-08-19 17:28:30,449 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-19 17:28:30,457 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
